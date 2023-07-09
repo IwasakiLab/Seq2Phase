@@ -1,0 +1,46 @@
+actin cortical patch GO:0030479
+Arp2/3 protein complex GO:0005885
+collagen-containing extracellular matrix GO:0062023
+contractile ring GO:0070938
+cytoplasmic microtubule GO:0005881
+cytoplasmic ribonucleoprotein granule GO:0036464
+cytoplasmic stress granule GO:0010494
+cytoplasmic viral factory GO:0039714
+cytoskeletal part GO:0044430
+dense fibrillar component GO:0001651
+enhanceosome GO:0034206
+euchromatin GO:0000791
+extracellular matrix GO:0031012
+galectin complex GO:1990724
+germ plasm GO:0060293
+granular component GO:0001652
+heterochromatin GO:0000792
+inclusion body GO:0016234
+intracellular non-membrane-bounded organelle GO:0043232
+mitochondrial cloud GO:0032019
+mutator focus GO:1990633
+neuronal ribonucleoprotein granule GO:0071598
+neuron projection GO:0043005
+nuclear body GO:0016604
+nuclear pore central transport channel GO:0044613
+nuclear speck GO:0016607
+nucleolus GO:0005730
+paraspeckles GO:0042382
+P-body GO:0000932
+PcG protein complex GO:0031519
+pericentriolar material GO:0000242
+P granule GO:0043186
+pi-body GO:0071546
+PML body GO:0016605
+postsynaptic density GO:0014069
+presynaptic cytosol GO:0099523
+protein complex involved in cell-cell adhesion GO:0098635
+protein-containing complex GO:0032991
+pyrenoid GO:1990732
+ribonucleoprotein complex GO:1990904
+RISC complex GO:0016442
+RNA polymerase II, holoenzyme GO:0016591
+spindle matrix GO:1990047
+TCR signalosome GO:0036398
+viroplasm viral factory GO:0039716
+Yb body GO:0070725
