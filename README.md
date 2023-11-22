@@ -69,6 +69,6 @@ python seq2phase.py -i input.fasta -o output.tsv
     - **Interpreting Scores**: If both scores of a protein are high (>0.5), it is considered a scaffold protein.
 
 
-### Contact
+## Contact
 
 Kazuki Miyata (The University of Tokyo) miyatakazuki381@g.ecc.u-tokyo.ac.jp
