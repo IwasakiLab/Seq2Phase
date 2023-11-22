@@ -28,7 +28,7 @@ def main(inputfile, outputfile, thread, cpu, model_dir):
         sequences.append(record)
     embeddings = embedder.embed_many([str(s.seq) for s in sequences])
     embeddings=list(embeddings)
-    embeddings=[x.mean(axis=0) for x in embeddings]
+    embeddings=np.array([x.mean(axis=0) for x in embeddings])
     ids=[str(s.id) for s in sequences]
     
     model_client = load(model_dir + 'trained_model_client.joblib')
