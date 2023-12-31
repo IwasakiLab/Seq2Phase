@@ -53,7 +53,7 @@ More information: [PyTorch](https://pytorch.org/get-started/previous-versions/)
 
 ## Usage
 
-Run `train_model.py` first, then `seq2phase.py`.
+Run [`train_model.py`](https://github.com/IwasakiLab/Seq2Phase/blob/main/train_model.py) first, then [`seq2phase.py`](https://github.com/IwasakiLab/Seq2Phase/blob/main/seq2phase.py).
 ```bash
 python train_model.py
 python seq2phase.py -i input.fasta -o output.tsv
@@ -68,6 +68,11 @@ python seq2phase.py -i input.fasta -o output.tsv
 - **Output**: Generates an output file containing client and scaffold scores.
     - **Interpreting Scores**: If both scores of a protein are high (>0.5), it is considered a scaffold protein.
 
+## How to cite Seq2Phase
+
+Kazuki Miyata, Wataru Iwasaki, Seq2Phase: Language Model-based Accurate Prediction of Client Proteins in Liquid-Liquid Phase Separation, Bioinformatics Advances, 2023;, vbad189.
+
+https://doi.org/10.1093/bioadv/vbad189
 
 ## Contact
 
